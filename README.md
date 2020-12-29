@@ -48,7 +48,8 @@ url.getQuery();
  *
  * url variable
  *      -- host => baidu.com
- *      -- protocol => https://
+ *      -- protocol => https
+ *      -- port => null
  *      -- params => {key2: "value2", query: "no"}
  *      -- path => index.php
  *      -- query => query=ok
